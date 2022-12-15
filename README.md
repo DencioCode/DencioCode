@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DencioCode
-- 👀 I’m interested in Programming and Data Engineering
-- 🌱 I’m currently learning SQL, Python, and R along with Tableu.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Programming and Web Developing
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me: Email me @ DennisDRCaaduyac@gmail.com
 
 <!---
